@@ -1,5 +1,5 @@
 # Langosta Run
-Runner de esquivar obstáculos hecho con Unity (versión X) y C#.
+Runner de esquivar obstáculos hecho con Unity 2022.3.62f2 y C#.
 
 ## Qué incluye
 - Movimiento del jugador 
